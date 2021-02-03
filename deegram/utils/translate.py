@@ -1,4 +1,4 @@
-CREATOR = "@priyanshu_bhardwaj"
+CREATOR = "@*************"
 WELCOME_MSG = (
 	f"Hey ..👋\n"
         f"Welcome to Song Downloader Bot .Send your deezer link or Search Inline to download your song .\n\n"
@@ -22,10 +22,9 @@ HELP_MSG = (
 	"/settings - Change your preferences\n"
 	"/info - about the bot dev.\n"
 	"/stats - Get some statistics about the bot\n"
-        "/source - source of this project ⭐\n"
 )
 SOURCE_MSG = (
-	f"https://github.com/bhardwajjEE/TgSongDl"
+	f"https://github.com/********"
 )
 DOWNLOAD_MSG = "Downloading…"
 UPLOAD_MSG = "Uploading…"
